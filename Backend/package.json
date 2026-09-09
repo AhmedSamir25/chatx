@@ -1,0 +1,14 @@
+{
+   "name" : "backend",
+   "version" : "1.0.0",
+   "description" : "Backend for the application",
+   "main" : "scr/server.js",
+   "scripts" : {
+	         "start" : "node scr/server.js",
+	   	 "dev" : "nodemon scr/server.js"
+   },
+   "author" : "",
+   "license" : "ISC",
+   "dependencies" : {
+   },
+}
